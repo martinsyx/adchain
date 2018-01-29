@@ -3,13 +3,26 @@
   "version": "1.0.0",
   "description": "code test blockchain app",
   "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsyx/adchain.git"
   },
   "keywords": [
     "blockchain",
     "advertise"
   ],
   "author": "martin song",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsyx/adchain/issues"
+  },
+  "homepage": "https://github.com/martinsyx/adchain#readme"
 }
